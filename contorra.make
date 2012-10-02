@@ -4,7 +4,7 @@ projects[] = drupal
 
 projects[contorra][type] = "profile"
 projects[contorra][download][type] = "git"
-projects[contorra][download][url] = "https://github.com/DimaEvseev/profile.git"
+projects[contorra][download][url] = "git://github.com/DimaEvseev/profile.git"
 
 ;Wysiwyg + TinyMCE 3.4.x
 projects[wysiwyg][subdir] = "contrib"
@@ -48,7 +48,7 @@ projects[omega_tools][subdir] = "contrib"
 
 ;Libraries
 libraries[tinymce][download][type] = git
-libraries[tinymce][download][url] = https://github.com/DimaEvseev/tinymce_ru.git
+libraries[tinymce][download][url] = git://github.com/DimaEvseev/tinymce_ru.git
 
 libraries[jquery.cycle][type] = "libraries"
 libraries[jquery.cycle][download][type] = "file"
@@ -58,7 +58,7 @@ libraries[colorbox][download][type] = "file"
 libraries[colorbox][download][url] = https://github.com/jackmoore/colorbox/blob/master/colorbox/jquery.colorbox.js
 
 libraries[superfish][download][type] = git
-libraries[superfish][download][url] = https://github.com/mehrpadin/Superfish-for-Drupal.git
+libraries[superfish][download][url] = git://github.com/mehrpadin/Superfish-for-Drupal.git
 
 
 
