@@ -47,18 +47,18 @@ projects[delta][subdir] = "contrib"
 projects[omega_tools][subdir] = "contrib"
 
 ;Libraries
-libraries[tinymce][download][type] = git
-libraries[tinymce][download][url] = git://github.com/DimaEvseev/tinymce_ru.git
+libraries[tinymce][download][type] = "git"
+libraries[tinymce][download][url] = "git://github.com/DimaEvseev/tinymce_ru.git"
 
 libraries[jquery.cycle][type] = "libraries"
 libraries[jquery.cycle][download][type] = "file"
 libraries[jquery.cycle][download][url] = "https://raw.github.com/malsup/cycle/master/jquery.cycle.all.js"
 
-libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = git://github.com/DimaEvseev/colorbox_for_drupal.git
+libraries[colorbox][download][type] = "git"
+libraries[colorbox][download][url] = "git://github.com/DimaEvseev/colorbox_for_drupal.git"
 
-libraries[superfish][download][type] = git
-libraries[superfish][download][url] = git://github.com/mehrpadin/Superfish-for-Drupal.git
+libraries[superfish][download][type] = "git"
+libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
 
 
 
