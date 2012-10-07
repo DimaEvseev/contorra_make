@@ -39,6 +39,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[menu_block][subdir] = "contrib"
 projects[dhtml_menu][subdir] = "contrib"
 projects[superfish][subdir] = "contrib"
+projects[metatag][subdir] = "contrib"
 
 ;Themes
 projects[omega][type] = theme
@@ -54,8 +55,8 @@ libraries[jquery.cycle][type] = "libraries"
 libraries[jquery.cycle][download][type] = "file"
 libraries[jquery.cycle][download][url] = "https://raw.github.com/malsup/cycle/master/jquery.cycle.all.js"
 
-libraries[colorbox][download][type] = "git"
-libraries[colorbox][download][url] = "git://github.com/DimaEvseev/colorbox_for_drupal.git"
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
 
 libraries[superfish][download][type] = "git"
 libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
