@@ -47,6 +47,7 @@ projects[menu_block][subdir] = "contrib"
 projects[dhtml_menu][subdir] = "contrib"
 projects[superfish][subdir] = "contrib"
 projects[globalredirect][subdir] = "contrib"
+projects[redirect][subdir] = "contrib"
 
 ;Themes
 projects[omega][type] = theme
