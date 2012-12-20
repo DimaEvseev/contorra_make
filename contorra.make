@@ -13,10 +13,17 @@ projects[imce_wysiwyg][subdir] = "contrib"
 
 ;Admin
 projects[admin_menu][subdir] = "contrib"
+projects[taxonomy_manager][subdir] = "contrib"
+
 
 ;Development
 projects[devel][subdir] = "contrib"
 projects[coder][subdir] = "contrib"
+
+;SEO
+projects[metatag][subdir] = "contrib"
+projects[sitemap][subdir] = "contrib"
+projects[robotstxt][subdir] = "contrib"
 
 ;Other
 projects[ctools][subdir] = "contrib"
@@ -39,7 +46,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[menu_block][subdir] = "contrib"
 projects[dhtml_menu][subdir] = "contrib"
 projects[superfish][subdir] = "contrib"
-projects[metatag][subdir] = "contrib"
+projects[globalredirect][subdir] = "contrib"
 
 ;Themes
 projects[omega][type] = theme
