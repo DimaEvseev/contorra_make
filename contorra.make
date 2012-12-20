@@ -22,7 +22,7 @@ projects[coder][subdir] = "contrib"
 
 ;SEO
 projects[metatag][subdir] = "contrib"
-projects[sitemap][subdir] = "contrib"
+projects[xmlsitemap][subdir] = "contrib"
 projects[robotstxt][subdir] = "contrib"
 
 ;Other
