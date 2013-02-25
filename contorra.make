@@ -25,29 +25,53 @@ projects[metatag][subdir] = "contrib"
 projects[xmlsitemap][subdir] = "contrib"
 projects[robotstxt][subdir] = "contrib"
 
+;Views
+projects[views][subdir] = "contrib"
+
 ;Other
 projects[ctools][subdir] = "contrib"
 projects[context][subdir] = "contrib"
-projects[browserclass][subdir] = "contrib"
+
 projects[token][subdir] = "contrib"
 projects[pathauto][subdir] = "contrib"
 projects[transliteration][subdir] = "contrib"
-projects[views][subdir] = "contrib"
-projects[views_slideshow][subdir] = "contrib"
 projects[libraries][subdir] = "contrib"
 projects[features][subdir] = "contrib"
 projects[strongarm][subdir] = "contrib"
 projects[entity][subdir] = "contrib"
 projects[rules][subdir] = "contrib"
-projects[webform][subdir] = "contrib"
 projects[backup_migrate][subdir] = "contrib"
-projects[colorbox][subdir] = "contrib"
 projects[l10n_update][subdir] = "contrib"
-projects[menu_block][subdir] = "contrib"
-projects[dhtml_menu][subdir] = "contrib"
-projects[superfish][subdir] = "contrib"
 projects[globalredirect][subdir] = "contrib"
 projects[redirect][subdir] = "contrib"
+projects[panels_everywhere][subdir] = "contrib"
+projects[panels][subdir] = "contrib"
+
+;Theme
+projects[browserclass][subdir] = "contrib"
+
+projects[views_load_more][subdir] = "contrib"
+projects[quicktabs][subdir] = "contrib"
+projects[semanticviews][subdir] = "contrib"
+projects[module_filter][subdir] = "contrib"
+projects[menu_attributes][subdir] = "contrib"
+projects[back_to_top][subdir] = "contrib"
+
+
+
+
+
+
+
+;UI
+projects[flexslider][subdir] = "contrib"
+projects[views_slideshow][subdir] = "contrib"
+projects[webform][subdir] = "contrib"
+projects[menu_block][subdir] = "contrib"
+projects[dhtml_menu][subdir] = "contrib"
+projects[colorbox][subdir] = "contrib"
+projects[superfish][subdir] = "contrib"
+
 
 ;Themes
 projects[omega][type] = theme
@@ -69,13 +93,9 @@ libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbo
 libraries[superfish][download][type] = "git"
 libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
 
-
-
-
-
-
-
-
+libraries[flexslider][download][type] = "git"
+libraries[flexslider][download][url] = "git://github.com/woothemes/FlexSlider.git"
+libraries[flexslider][directory_name] = flexslider
 
 
 
