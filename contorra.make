@@ -87,8 +87,8 @@ libraries[jquery.cycle][type] = "libraries"
 libraries[jquery.cycle][download][type] = "file"
 libraries[jquery.cycle][download][url] = "https://raw.github.com/malsup/cycle/master/jquery.cycle.all.js"
 
-libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
+;libraries[colorbox][download][type] = "file"
+;libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
 
 libraries[superfish][download][type] = "git"
 libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
