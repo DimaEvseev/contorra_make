@@ -66,6 +66,8 @@ projects[flexslider][subdir] = "contrib"
 projects[views_slideshow][subdir] = "contrib"
 projects[webform][subdir] = "contrib"
 
+projects[field_collection][subdir] = "contrib"
+
 ;Themes
 projects[omega][type] = theme
 projects[omega][subdir] = "contrib"
