@@ -38,8 +38,10 @@ projects[transliteration][subdir] = "contrib"
 projects[libraries][subdir] = "contrib"
 projects[features][subdir] = "contrib"
 projects[strongarm][subdir] = "contrib"
+
 projects[entity][subdir] = "contrib"
 projects[rules][subdir] = "contrib"
+
 projects[backup_migrate][subdir] = "contrib"
 projects[l10n_update][subdir] = "contrib"
 projects[globalredirect][subdir] = "contrib"
@@ -58,49 +60,19 @@ projects[menu_attributes][subdir] = "contrib"
 projects[back_to_top][subdir] = "contrib"
 
 
-
-
-
-
-
 ;UI
 projects[flexslider][subdir] = "contrib"
 projects[views_slideshow][subdir] = "contrib"
 projects[webform][subdir] = "contrib"
-projects[menu_block][subdir] = "contrib"
-projects[dhtml_menu][subdir] = "contrib"
-projects[colorbox][subdir] = "contrib"
-projects[superfish][subdir] = "contrib"
-
 
 ;Themes
 projects[omega][type] = theme
 projects[omega][subdir] = "contrib"
-projects[delta][subdir] = "contrib"
-projects[omega_tools][subdir] = "contrib"
+
 
 ;Libraries
 libraries[tinymce][download][type] = "git"
 libraries[tinymce][download][url] = "git://github.com/DimaEvseev/tinymce_ru.git"
-
-libraries[jquery.cycle][type] = "libraries"
-libraries[jquery.cycle][download][type] = "file"
-libraries[jquery.cycle][download][url] = "https://raw.github.com/malsup/cycle/master/jquery.cycle.all.js"
-
-;libraries[colorbox][download][type] = "file"
-;libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
-
-libraries[superfish][download][type] = "git"
-libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
-
-libraries[flexslider][download][type] = "git"
-libraries[flexslider][download][url] = "git://github.com/woothemes/FlexSlider.git"
-libraries[flexslider][directory_name] = flexslider
-
-
-
-
-
 
 
 
