@@ -59,6 +59,7 @@ projects[module_filter][subdir] = "contrib"
 projects[menu_attributes][subdir] = "contrib"
 projects[back_to_top][subdir] = "contrib"
 
+projects[ds][subdir] = "contrib"
 
 ;UI
 projects[flexslider][subdir] = "contrib"
@@ -68,7 +69,6 @@ projects[webform][subdir] = "contrib"
 ;Themes
 projects[omega][type] = theme
 projects[omega][subdir] = "contrib"
-
 
 ;Libraries
 libraries[tinymce][download][type] = "git"
